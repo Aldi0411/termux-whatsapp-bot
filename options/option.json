@@ -1,10 +1,10 @@
 {
-    "botName": "BOT_NAME",
-    "ownerName": "OWNER_NAME",
-    "BarBarKey": "YOUR_APIKEY",
-    "ownerNumbers": "628885xxxxxx@s.whatsapp.net",
+    "botName": "ALDI BOT",
+    "ownerName": "ALDI_IRAWAN",
+    "BarBarKey": "A4wJwkoSak82hj82NWo92",
+    "ownerNumbers": "6285751928963@s.whatsapp.net",
     "languages": "ind",
     "botPrefix": ".",
-    "memberLimitss": "25",
+    "memberLimitss": "30",
     "userDefaultLimit": "30"
 }
